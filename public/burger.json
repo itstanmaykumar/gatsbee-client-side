@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Big Burger",
+        "img": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/a186587fa5489876daa7a480d72aa517ddfed595-1333x1333.png?w=750&q=40&fit=max&auto=format",
+        "text": "Each Quarter Pounder® with Cheese burger features a ¼ lb.* of 100% fresh beef that’s hot, deliciously juicy and cooked when you order. It’s seasoned with just a pinch of salt and pepper, sizzled on a flat iron grill, then topped with slivered onions, tangy pickles and two slices of melty American cheese on a sesame seed bun. Our QPC® contains no artificial flavors, preservatives or added colors from artificial sources.",
+        "cal": 550,
+        "fat": 35,
+        "price": 5.99,
+        "rating": 4.87
+    },
+    {
+        "name": "Quater Pounder",
+        "img": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/a186587fa5489876daa7a480d72aa517ddfed595-1333x1333.png?w=750&q=40&fit=max&auto=format",
+        "text": "Mouthwatering perfection starts with two 100% pure beef patties and Big Mac® sauce sandwiched between a sesame seed bun. It’s topped off with pickles, crisp shredded lettuce, finely chopped onion and American cheese for a 100% beef burger with a taste like no other. It contains no artificial flavors, preservatives or added colors from artificial sources.* Our pickle contains an artificial preservative, so skip it if you like. There are 550 calories in a Big Mac.",
+        "cal": 520,
+        "fat": 30,
+        "price": 4.59,
+        "rating": 4.85
+    },
+    {
+        "name": "Double Quarter",
+        "img": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/a186587fa5489876daa7a480d72aa517ddfed595-1333x1333.png?w=750&q=40&fit=max&auto=format",
+        "text": "Each Double Quarter Pounder with Cheese features two quarter pound* 100% fresh beef burger patties that are hot, deliciously juicy and cooked when you order. Gatsbee’s beef patties are seasoned with just a pinch of salt and pepper, sizzled on a flat iron grill, then topped with slivered onions, tangy pickles and two slices of melty cheese on a sesame seed bun. It contains no artificial flavors, preservatives or added colors from artificial sources.** Our pickle contains an artificial preservative, so skip it if you like.",
+        "cal": 740,
+        "fat": 65,
+        "price": 7.89,
+        "rating": 4.65
+    },
+    {
+        "name": "Double Cheeseburger",
+        "img": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/a186587fa5489876daa7a480d72aa517ddfed595-1333x1333.png?w=750&q=40&fit=max&auto=format",
+        "text": "The Gatsbee's Double Cheeseburger features two 100% pure beef burger patties seasoned with just a pinch of salt and pepper. It's topped with tangy pickles, chopped onions, ketchup, mustard and two slices of melty American cheese. There are 450 calories in a Gatsbee's Double Cheeseburger. It contains no artificial flavors, preservatives or added colors from artificial sources.* Our pickle contains an artificial preservative, so skip it if you like.",
+        "cal": 450,
+        "fat": 27,
+        "price": 4.99,
+        "rating": 4.84
+    }
+]
