@@ -1,13 +1,117 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+* {
+  font-family: 'Manrope', sans-serif;
+  text-decoration: none !important;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.logo-font {
+  letter-spacing: 1.5px;
+  font-family: 'Bebas Neue', cursive;
+}
+
+.bg-dark-pro {
+  background-color: #140C00;
+}
+
+.bg-light-pro {
+  background-color: #FFF9EE;
+}
+
+.bg-main {
+  background-color: #F9AC00;
+}
+
+.btn-main {
+  background-color: #F9AC00;
+  transition-duration: .2s;
+  color: white;
+}
+
+.btn-main:hover {
+  background-color: #F9AC00;
+  color: white;
+}
+
+.btn-outline-main {
+  color: #F9AC00;
+  border: 1px solid #F9AC00;
+  transition-duration: .2s;
+}
+
+.btn-outline-main:hover {
+  background-color: #F9AC00;
+  color: white;
+}
+
+.text-main {
+  color: #F9AC00 !important;
+}
+
+.text-second {
+  color: #505050;
+}
+
+.border-main {
+  border-color: #F9AC00 !important;
+}
+
+.rounded-20 {
+  border-radius: 20px;
+}
+
+.rounded-t-20 {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.rounded-b-20 {
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.rounded-10 {
+  border-radius: 10px;
+}
+
+.rounded-t-10 {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.rounded-b-10 {
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.box:hover {
+  box-shadow: 5px 5px 15px #949494 !important;
+  transition-duration: .2s;
+}
+
+.foo-hover:hover {
+  color: white;
+  cursor: pointer;
+}
+
+.ico:hover {
+  color: #F9AC00 !important;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.mh-5 {
+  min-height: 500px;
+}
+
+.of-x-h {
+  overflow-x: hidden !important;
+}
+
+.of-y-h {
+  overflow-y: hidden !important;
+}
+
+.burger-img {
+  margin-top: -80px;
 }
