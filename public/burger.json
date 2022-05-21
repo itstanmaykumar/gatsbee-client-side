@@ -6,6 +6,7 @@
         "cal": 550,
         "fat": 35,
         "price": 5.99,
+        "remain": 12,
         "rating": 4.87
     },
     {
@@ -15,6 +16,7 @@
         "cal": 520,
         "fat": 30,
         "price": 4.59,
+        "remain": 16,
         "rating": 4.85
     },
     {
@@ -24,6 +26,7 @@
         "cal": 740,
         "fat": 65,
         "price": 7.89,
+        "remain": 42,
         "rating": 4.65
     },
     {
@@ -33,6 +36,7 @@
         "cal": 450,
         "fat": 27,
         "price": 4.99,
+        "remain": 32,
         "rating": 4.84
     }
 ]

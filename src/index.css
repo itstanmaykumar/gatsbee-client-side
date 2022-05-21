@@ -4,12 +4,11 @@
 }
 
 .logo-font {
-  letter-spacing: 1.5px;
-  font-family: 'Bebas Neue', cursive;
+  font-family: 'Oswald', sans-serif;
 }
 
 .bg-dark-pro {
-  background-color: #140C00;
+  background-color: #0b0700;
 }
 
 .bg-light-pro {
@@ -88,7 +87,7 @@
 }
 
 .foo-hover:hover {
-  color: white;
+  color: white !important;
   cursor: pointer;
 }
 

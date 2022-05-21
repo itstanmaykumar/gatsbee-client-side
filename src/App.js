@@ -17,9 +17,9 @@ function App() {
         <Route path="/" element={<Home></Home>}></Route>
         <Route path="/home" element={<Home></Home>}></Route>
         <Route path="/burgers" element={<Explore></Explore>}></Route>
+        <Route path="/burgers/:burgerId" element={<BurgerDetails></BurgerDetails>}></Route>
         <Route path="/signin" element={<SignIn></SignIn>}></Route>
         <Route path="*" element={<NotFound></NotFound>}></Route>
-        <Route path="/burgers/:burgerId" element={<BurgerDetails></BurgerDetails>}></Route>
       </Routes>
       <Footer></Footer>
       <ToastContainer></ToastContainer>

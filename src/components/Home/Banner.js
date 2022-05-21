@@ -13,7 +13,7 @@ const Banner = () => {
                     <p className="mb-2 text-second">15% OFF EVERYTHING</p>
                     <h1 className="mb-3">Taste The <span className="text-warning">Finest Delicious Burgers</span> of Gatsbee Now!!</h1>
                     <small className="mb-2 d-block text-secondary">Get free large Fries when you download the Gatsbee’s app and join MyGatsbee’s Rewards. Then, get free Gatsbee’s faves with 1500 bonus points after your first purchase.</small>
-                    <Link className="mt-4 px-4 border-2 fw-bolder btn btn-outline-main" to="/posters">Explore <i className="ps-1 fas fa-angle-double-right"></i></Link>
+                    <Link className="mt-4 px-4 border-2 fw-bolder btn btn-outline-warning" to="/posters">Explore <i className="ps-1 fas fa-angle-double-right"></i></Link>
                 </div>
             </div>
         </div>
